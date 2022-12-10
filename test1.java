@@ -1,8 +1,8 @@
-public class test1 {
+public class myCode {
     public static void main(String[] args){
 
-        System.out.println(convertMin2Sec(32));
-        System.out.println(convertSec2min(1920));
+        System.out.println(convertMin2Sec(32));//minutes to seconds
+        System.out.println(convertSec2min(1920));//seconds to minutes
 
     }
     public static String convertMin2Sec(int min){
